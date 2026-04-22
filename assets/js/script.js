@@ -1,8 +1,4 @@
-/*
-    Author: Code Jungle
-    Youtube: https://www.youtube.com/@CodeJungle
-    Instagram: https://www.instagram.com/code.jungle/
-*/
+
 
 // window scroll
 $(window).on("scroll", function() {
